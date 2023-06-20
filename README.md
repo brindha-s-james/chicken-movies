@@ -19,16 +19,16 @@ This repo is designed to provide space to code a fullstack app. It contains node
   </details>
 
 <details>
-  <summary>More about using <code>npm</code> vs <code>npx</code></summary>
-
+    <summary>More about using <code>npm</code></summary>
   - When running knex, run `npm run knex <command>`,e.g.
-    - `npm run knex migrate:make 'table-name`
-    -`npm run knex seed:make 'table-name`
-    -`npm run knex migrate:latest`
-    -`npm run knex seed:run`
+    <code>`npm run knex migrate:make 'table-name`</code>
+    <code>`npm run knex seed:make 'table-name`</code>
+    <code>`npm run knex migrate:latest`</code>
+    <code> `npm run knex seed:run`</code>
+
      if alterations need to be made:
-   - `npm run knex migrate:make 'add-column-image`
-    -`npm run knex seed:run
+      <code> `npm run knex migrate:make 'add-column-image`</code>
+      <code>  `npm run knex seed:run </code>
      ensure migrate command is run before seed command.
 
 </details>
