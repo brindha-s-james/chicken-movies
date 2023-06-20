@@ -1,4 +1,4 @@
-# Fullstack Collection App
+# Fullstack chicken movies Collection App
 
 This repo is designed to provide space to code a fullstack app. It contains node modules and folders for databases, routes, api requests, react components, and redux actions and creators. Let's get going!
 
@@ -11,7 +11,7 @@ This repo is designed to provide space to code a fullstack app. It contains node
 
     You may also want to start a new branch
     ```sh
-    cd my-fullstack-collection
+    cd chicken-movies
     npm i
     git checkout -b <branchname>
     npm run dev
